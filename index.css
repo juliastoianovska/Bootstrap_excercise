@@ -1,0 +1,31 @@
+body {
+  margin-top: 10px;
+  font-family: 'Mansalva', cursive;
+  background-color: #F2351B;
+}
+
+.nav-button {
+  background-color: #407EB1;
+  color: #ffffff;
+  margin-bottom: 25px;
+  padding: 10px 10px;
+  border-radius: 0px;
+}
+
+.card {
+  float: left;
+  margin-right: 10px;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.form {
+  margin-left: 50px;
+}
+
+.margin-fix {
+  margin-right: 0px;
+  margin-left: 0px;
+}
